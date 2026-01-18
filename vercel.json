@@ -1,0 +1,1 @@
+{"routes": [{"src": "/(.*)", "dest": "https://your-destination-url.com/$1"}]}
