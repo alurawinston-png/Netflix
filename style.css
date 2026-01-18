@@ -1,0 +1,18 @@
+.netflix {
+  color: #E50914;
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  background-color: #141414;
+}
+
+.netflix h1 {
+  font-size: 24px;
+  margin: 0;
+}
+
+.netflix p {
+  font-size: 16px;
+}
